@@ -14,3 +14,28 @@ AR contact lens detect current diabetes in the wearer if the wearer is effected 
 * chromiumQR-desktop<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/mojo-vison-OT/main/AR-ot.png" width="800"></p>
 
 * chromiumQR-desktop<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/mojo-vison-OT/main/AR-ot-medical.png" width="800"></p>
+
+<p>
+  Mojo Vision has developed prototypes for contact lenses that enable people to see augmented reality images as overlays on the real world. And now it has teamed up with Menicon, Japan’s largest and oldest maker of contact lenses, to further develop the product.
+
+Saratoga, California-based Mojo Vision has developed a smart contact lens with a tiny built-in display that lets you view augmented reality images on a screen sitting right on your eyeballs. It’s a pretty amazing innovation, but the company has to make sure that it works with contact lenses as they have been built for decades. The partnership with Menicon will help the company do that, Mojo Vision chief technology officer Mike Wiemer said in an interview with VentureBeat.
+
+“It’s a development agreement, and it could turn into a commercial agreement,” Wiemer said. “I’m very excited to work with them.”
+
+Under the joint-development agreement, the two companies will work on various feasibility studies on production and manufacturing, exploring a potential long-term working relationship as Mojo tries to commercialize the technology.
+
+Mojo Vision is developing Mojo Lens, which it calls the first true smart contact lens. Nagoya, Japan-based Menicon claims to be the only company in the world dedicated to all areas of contact lens-related business, including material development, lens designing, rigid gas permeable lens technology, manufacturing of lenses, and care solutions.
+
+
+Above: A grain of sand compared to the Mojo Vision contact lens pixel.
+
+Image Credit: Mojo Vision
+Areas of collaboration will center around contact lens materials, cleaning, and fitting, among other topics. Menicon, led by president Hidenari Tanaka, has been making contact lenses for 70 years, and it has more than 1,400 employees. Wiemer said that Menicon has volumes of research on things such as coatings for contact lenses and how devices interact with the human body.
+
+“These are the challenges for us,” Wiemer said. “We have to get our teams to work together.”
+
+Mojo Lens overlays monochrome images, symbols, and text on users’ natural fields of vision without obstructing their view, restricting mobility, or hindering social interactions.
+
+Mojo is actively working with the U.S. Food and Drug Administration (FDA) through its Breakthrough Devices Program, a voluntary program designed to provide safe and timely access to medical devices that can help treat irreversibly debilitating diseases or conditions.
+
+In April 2020, Mojo announced it had raised more than $51 million in a funding round, and it has raised $159 million to date. The company has more than 100 employees. Financial terms of the agreement are not being disclosed. Wiemer said his company is developing relationships with most of the major contact lens companies, and that the company is working on a new prototype more advanced than the one it showed in January 2020.</p>
