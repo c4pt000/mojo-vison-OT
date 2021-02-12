@@ -1,6 +1,11 @@
 # mojo-vison-OT
 
-QR codes for machine learning, advanced optic url input AR contacts possibly
+QR codes for machine learning, advanced optic url input 
+
+<br>
+AR contacts possibly
+
+<br>
 
 AR contact lens "mojo.vison" powered from natural body bio-electricity since the human body gives off a small amount of bio-electricity around ~0.15V ?
 
