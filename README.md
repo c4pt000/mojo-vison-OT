@@ -1,9 +1,13 @@
 # mojo-vison-OT
 
 QR codes for machine learning, advanced optic url input 
+
 <br>
+
 https://www.mojo.vision/news
+
 <br>
+
 https://www.diabetes.co.uk/news/2020/may/smart-contact-lenses-successfully-detect-glucose-levels.html#:~:text=Wireless%20smart%20contact%20lenses%20could,wearing%20them%2C%20researchers%20have%20said.
 
 <br>
