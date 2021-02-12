@@ -39,3 +39,25 @@ Mojo Lens overlays monochrome images, symbols, and text on users’ natural fiel
 Mojo is actively working with the U.S. Food and Drug Administration (FDA) through its Breakthrough Devices Program, a voluntary program designed to provide safe and timely access to medical devices that can help treat irreversibly debilitating diseases or conditions.
 
 In April 2020, Mojo announced it had raised more than $51 million in a funding round, and it has raised $159 million to date. The company has more than 100 employees. Financial terms of the agreement are not being disclosed. Wiemer said his company is developing relationships with most of the major contact lens companies, and that the company is working on a new prototype more advanced than the one it showed in January 2020.</p>
+
+<p>
+  Wireless smart contact lenses could be the answer to detecting diabetes and helping to treat diabetic retinopathy just by wearing them, researchers have said.
+
+The technology, delivered by a team in South Korea, can successfully control drug delivery via electrical signals and could eventually see the end of finger-pricking.
+
+The device relies on chip technology which monitors sugar levels via the users’ blood vessels behind the eyelids and will issue a warning should a health emergency arise.
+
+A recent study showed the pioneering lenses correctly detected glucose levels from the tears of rabbits with diabetes.
+
+In the last few years there have been many attempts to create contact lenses that could make life easier for people with diabetes.
+
+In 2014, Google announced it was working on designing lenses that could measure blood sugar levels from tears. However, tests on the technology showed the measurements were inconsistent.
+
+However, despite these latest exciting findings, lead researcher Professor Sei Kwang Han from Pohang University of Science and Technology’s (POSTECH) Department of Materials Science and Engineering, believes more research must be carried out before it can be made available to the general public.
+
+He said: “Despite the full-fledged research and development of wearable devices from global companies, the commercialisation of wireless-powered medical devices for diagnosis and treatment of diabetes and retinopathy is insufficient.
+
+“We expect that this research will greatly contribute to the advancement of related industries by being the first in developing wireless-powered smart contact lenses equipped with drug delivery system for diagnosis and treatment of diabetes, and treatment of retinopathy.”
+
+The research has been published in the Science Advances journal.
+</p>
