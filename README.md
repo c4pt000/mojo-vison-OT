@@ -69,3 +69,11 @@ He said: “Despite the full-fledged research and development of wearable device
 
 The research has been published in the Science Advances journal.
 </p>
+
+
+# Possible to download an electronic reciept by looking at instead of using a camera phone app to import QR, since mojo technically can draw lines around objects to highlight them it could draw lines around the pattern of a QR code image to decipher the pattern as a visual input
+
+<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/wawa-proposal-QR-code-digital-gas-receipt-to-phone/master/IMG_20210213_144602361.jpg" width="800"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/wawa-proposal-QR-code-digital-gas-receipt-to-phone/master/IMG_20210213_144609417.jpg" width="800"></p>
+
