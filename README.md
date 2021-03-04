@@ -83,7 +83,7 @@ The research has been published in the Science Advances journal.
 </p>
 
 
-# Possible to download an electronic reciept by looking at it instead of using a camera phone app to import QR code image, since mojo technically can draw lines around objects to highlight them it could also draw lines around the pattern of a QR code image to decipher the pattern as a visual input or other QR objects for AR explanation as visual images or detailed packaging information outside of the use of financial reciepts
+# Possible type of application to download an electronic reciept by looking at it instead of using a camera phone app to import QR code image, since mojo technically can draw lines around objects to highlight them it could also draw lines around the pattern of a QR code image to decipher the pattern as a visual input or other QR objects for AR explanation as visual images or detailed packaging information outside of the use of financial reciepts
 
 <p align="center"><img src="https://raw.githubusercontent.com/c4pt000/wawa-proposal-QR-code-digital-gas-receipt-to-phone/master/IMG_20210213_144602361.jpg" width="800"></p>
 
