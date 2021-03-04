@@ -1,7 +1,7 @@
 
 Mojo is actively working with the U.S. Food and Drug Administration (FDA) through its Breakthrough Devices Program, a voluntary program designed to provide safe and timely access to medical devices that can help treat irreversibly debilitating diseases or conditions.
 
-^^ I don't see why......... people who want non prescription contact lens for cosmetic reasons to change their eye color dont really need any sort of medical prescription nor do people who buy VR headsets or VR glasses similar to hololens, even if they have a prescription required for glasses or not. With FDA approval guidelines I could understand if mojo.vision dealt with prescription lens only but if mojo.vision made a secondary contact under a type cosmetic guideline then it would pass if the contact lens was non prescription as a type of cosmetic altercation. remembering in the past about color contacts that are non prescription to change the color of the iris how could this argument even stand.
+^^ I don't see why......... people who want non prescription contact lens for cosmetic reasons to change their eye color dont really need any sort of medical prescription nor do people who buy VR headsets or VR glasses similar to hololens, even if they have a prescription required for glasses or not. With FDA approval guidelines I could understand if mojo.vision dealt with prescription lens only but if mojo.vision made a secondary contact under a type cosmetic guideline then it would pass if the contact lens was non prescription as a type of cosmetic altercation. remembering in the past about color contacts that are non prescription to change the color of the iris.
 
 
 
