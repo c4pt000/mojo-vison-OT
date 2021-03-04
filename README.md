@@ -15,7 +15,12 @@ AR contacts possibly
 
 <br>
 
-AR contact lens "mojo.vison" powered from natural body bio-electricity since the human body gives off a small amount of bio-electricity around ~0.15V ?
+# AR contact lens "mojo.vison" powered from natural body bio-electricity since the human body gives off a small amount of bio-electricity around ~0.15V ?
+
+# https://www.colorado.edu/today/2021/02/10/thermoelectric
+
+# https://www.amazon.com/MMS-Magic-Light-Bulb-Trick/dp/B009DKPIQY/ref=sr_1_10?crid=1C10E9077A23Q&dchild=1&keywords=magic+light+bulb&qid=1614857934&sprefix=magic+light+%2Caps%2C153&sr=8-10
+
 
 AR contact lens detect current diabetes in the wearer if the wearer is effected by diabetes (other possible medical and clincal detections)
 
