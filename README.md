@@ -91,3 +91,10 @@ The research has been published in the Science Advances journal.
 
 <p align="center"><img src="https://raw.githubusercontent.com/c4pt000/wawa-proposal-QR-code-digital-gas-receipt-to-phone/master/IMG_20210213_144609417.jpg" width="800"></p>
 
+https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight
+
+
+
+
+OT for ar contacts from the previous hackathon demo of AR based desktops
+<p align="center"><img src="https://github.com/c4pt000/ar-screen/raw/master/animated-out.gif" width="800"></p>
