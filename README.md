@@ -1,3 +1,7 @@
+# via mojo AR contact for informational based or financial based purposes, similar to ATMs or Kiosk reciepts for paper reduction
+
+![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-2.png)
+![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-3.png)
 
 Mojo is actively working with the U.S. Food and Drug Administration (FDA) through its Breakthrough Devices Program, a voluntary program designed to provide safe and timely access to medical devices that can help treat irreversibly debilitating diseases or conditions.
 
