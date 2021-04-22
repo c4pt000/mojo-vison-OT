@@ -91,6 +91,10 @@ The research has been published in the Science Advances journal.
 </p>
 
 
+# QR for 2FA and or OTP protection import AR, contact lens or mobile camera
+
+https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision
+
 # Possible type of application to download an electronic reciept by looking at it instead of using a camera phone app to import QR code image, since mojo technically can draw lines around objects to highlight them it could also draw lines around the pattern of a QR code image to decipher the pattern as a visual input or other QR objects for AR explanation as visual images or detailed packaging information outside of the use of reciepts. 
 
 * As an example with other products like a food product a QR code could be identified by the contact lens and with wifi access from a phone it could draw a 3d floating interactive object explaining more detail about the product or other product type infozine, deals, or promotional information
