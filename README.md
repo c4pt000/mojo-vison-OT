@@ -4,6 +4,8 @@ https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-a
 
 https://youtu.be/pV52DF5IrEc?t=95
 
+https://www.youtube.com/watch?v=jUuD2hNd45c
+
 # via mojo AR contact for informational based or financial based purposes, similar to ATMs or Kiosk reciepts for paper reduction
 
 ![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-2.png)
