@@ -106,6 +106,7 @@ https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-a
 <p align="center"><img src="https://raw.githubusercontent.com/c4pt000/wawa-proposal-QR-code-digital-gas-receipt-to-phone/master/IMG_20210213_144602361.jpg" width="800"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/c4pt000/wawa-proposal-QR-code-digital-gas-receipt-to-phone/master/IMG_20210213_144609417.jpg" width="800"></p>
+<p align="center"><img src="https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision/releases/download/gif/PIN-protected-for-QR-import-to-phone.gif" width="800"></p>
 
 https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight
 
