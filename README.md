@@ -18,10 +18,10 @@ https://youtu.be/pV52DF5IrEc?t=95
 
 https://www.youtube.com/watch?v=jUuD2hNd45c
 
-# via mojo AR contact for informational based or financial based purposes, similar to ATMs or Kiosk reciepts for paper reduction
-
+# via mojo AR contacts for informational based or financial based purposes, similar to ATMs or Kiosk reciepts for paper reduction
+# photo example of the statue of liberty with a QR code could be interactively explained by visual import of QR code into mojo contact lenses to become informationally explained in details of location surrounding events ... interactive information of other pertaining uses to the statue of liberty since this physical image has an embedded QR code
 ![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-2.png)
-![s1](https://raw.githubusercontent.com/c4pt000/OpenSea.io-basic-watermarking-script-JPG-mp4/main/QR-information-robotic-detection-and-other-exp-OT-3.png)
+
 
 Mojo is actively working with the U.S. Food and Drug Administration (FDA) through its Breakthrough Devices Program, a voluntary program designed to provide safe and timely access to medical devices that can help treat irreversibly debilitating diseases or conditions.
 
