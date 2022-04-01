@@ -9,7 +9,13 @@ instead of linkable to AR contact lenses for display also linkable to standard c
 also linkable to wireless keyboard and mouse
 ```
 
+side thought about medical FDA review concerning "mojo"
+```
+could cause eye injury if battery ever leaks with current model better to use bioelectric running off of the human eye as a source of electricity than using a battery at all
+see magic light bulb 💡 below for better idea of microscopic application for mojo vision AR contacts as a source of electricity instead of a battery
 
+
+```
 # QR code OT (other thoughts)
 
 https://github.com/c4pt000/QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision
@@ -49,7 +55,7 @@ AR contacts possibly
 # AR contact lens "mojo.vison" powered from natural body bio-electricity since the human body gives off a small amount of bio-electricity around ~0.15V ?
 
 # https://www.colorado.edu/today/2021/02/10/thermoelectric
-
+# magic light bulb uses bodies natural electricity
 # https://www.amazon.com/MMS-Magic-Light-Bulb-Trick/dp/B009DKPIQY/ref=sr_1_10?crid=1C10E9077A23Q&dchild=1&keywords=magic+light+bulb&qid=1614857934&sprefix=magic+light+%2Caps%2C153&sr=8-10
 
 
