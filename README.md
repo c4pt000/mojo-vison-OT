@@ -2,7 +2,7 @@
 https://spectrum.ieee.org/looking-through-mojo-visions-newest-ar-contact-lens
 ```
 my ideas that a manufacturer could build? like (Samsung) (with full fledged Linux instead of watch os...2tb microsd 4gb of ram 8 core ARM 64)...rechargeable computer the diameter and size a wristwatch as a prosthetic implant into the collar bone area (similar to an intravenous medical "port" that some people have medically installed into the collar bone area of the body
-rechargeable using QI wireless recharging by placing a QI rechargeable flexible pad over the installed "smart watch sized" collar bone port 
+rechargeable using QI wireless recharging by placing a QI rechargeable flexible pad over the installed "smart watch sized" collar bone port (at night for sleep)
 linkable to mojo vision AR contact lenses with 5ghz radio frequency and standard Bluetooth RF and Wifi RF
 Bluetooth allows for microphone and headphones linkablility or for external sound system
 instead of linkable to AR contact lenses for display also linkable to standard computer or TV display
