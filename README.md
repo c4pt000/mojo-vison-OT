@@ -1,3 +1,7 @@
+# 04-09-22
+https://youtu.be/d2fBBJRjccs
+
+
 # 04-01-22
 https://spectrum.ieee.org/looking-through-mojo-visions-newest-ar-contact-lens
 ```
